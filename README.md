@@ -112,9 +112,3 @@ Contributions are welcome!
 3. Commit your changes  
 4. Push the branch  
 5. Open a Pull Request  
-
----
-
-## License
-
-This project is released under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
