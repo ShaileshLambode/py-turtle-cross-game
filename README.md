@@ -6,7 +6,7 @@ A fun arcade-style game built with **Python Turtle Graphics** where the player g
 
 ## Demo / Preview
 
-![Game video](game_video.mp4)
+![Game video](game-video.gif)
 
 ---
 
